@@ -1,0 +1,15 @@
+.Hero {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0 40px;
+  color: rgb(139, 32, 71);
+}
+
+.Hero__image {
+  width: 100%;
+}
+
+.Hero__par {
+  color: rgb(75, 74, 74);
+}
